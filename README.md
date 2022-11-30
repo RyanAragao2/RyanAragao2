@@ -1,6 +1,6 @@
 ### Bem-vindo! Eu sou Ryan Aragão.
 
-- Desenvolvedor Web Full Stack (HTML5, CSS3, BootStrap, JavaScript, PHP e MySql).
+- Desenvolvedor Web Full Stack (HTML5, CSS3, BootStrap, JavaScript, PHP, OO e MySql).
 - Especialista em WordPress.
 - Noções de Ui & Ux Design.
 - Entusiasta em Segurança Cibernética. (Owasp Top Ten, WSTG e Osint Framework).
